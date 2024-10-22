@@ -1,12 +1,6 @@
 # 👨‍💻 Welcome to My GitHub Portfolio 👨‍💻
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://example.com/dark-mode-image.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://example.com/light-mode-image.png">
-  <img alt="An example image that adjusts to light and dark mode" src="https://example.com/default-image.png">
-</picture>
-
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-stack+developer+%7C+Cybersecurity+enthusiast;Passionate+about+problem+solving+and+technology;Committed+to+writing+clean%2C+secure+code)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full-stack+developer+%7C+Cybersecurity+enthusiast;Passionate+about+technology.)
 
 ![Green Radar Scanning](https://raw.githubusercontent.com/yourusername/yourrepository/main/radar.gif)
 
