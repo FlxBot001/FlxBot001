@@ -6,8 +6,8 @@
 
 ---
 
-# 💫 About Me:
-💻 IT Enthusiast | 🌐 Cloud & DevSecOps | 🔐 Cybersecurity Expert  <br>🤖 Building AI-driven solutions | ☁️ Multi-Cloud Architect  <br>💡 Passionate about innovation in tech & security 🚀  <br>📚 Always learning, always evolving!  <br><br>💼 Current role: IT Intern @ CloudLinux  <br>🌍 Based in Kenya | 🌱 Open to global opportunities  <br><br>Let's connect and create something amazing! ✨
+# 💫 About Me: Felix
+💻 IT Enthusiast | 🌐 Cloud & DevSecOps <br>🤖 Building AI-driven solutions  <br>💡 Passionate about innovation in tech & security 🚀  <br>📚 Always learning, always evolving!  <br>🌍 Based in Kenya | 🌱 Open to global opportunities  <br><br>Let's connect and create something amazing! ✨
 
 
 ## 🌐 Socials:
